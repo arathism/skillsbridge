@@ -11,8 +11,8 @@ Grateful to be part of Team Arohana and thankful for the support and guidance we
 ---
 
 **Team Arohana Members:**
-- Manasa F H
 - Arathi S M
+- Manasa F H
 - Rakshita R V
 - Pruthvi K
 - Gagan R
