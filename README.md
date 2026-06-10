@@ -1,4 +1,4 @@
-# SkillBridge 🚀
+# SkillBridge 
 
 **Proud to share a memorable milestone from our journey at YUVA i-Cause 2026.**
 
