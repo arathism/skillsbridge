@@ -9,6 +9,8 @@ As engineering students, being part of this platform helped us strengthen our pr
 Grateful to be part of Team Arohana and thankful for the support and guidance we received throughout this journey.
 
 ---
+Live project:
+https://arathism.github.io/skillsbridge/
 
 **Team Arohana Members:**
 - Arathi S M
